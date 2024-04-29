@@ -1,3 +1,7 @@
-# 美团饿了么优惠券领取单页
+# meituan coupon landing page
 
-一个 flex 布局的练习作品
+a work to study the flex layout and responsive design
+
+## Screenshots
+
+![screenshot](./screenshot.jpg)
